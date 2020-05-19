@@ -1,5 +1,5 @@
 ---
-title: Reality? Post 0 Format Experiment
+title: Reality?-Post-0-Format-Experiment
 date: 2020/05/19
 ---
 
